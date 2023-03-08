@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section>
+  <main>
+    <h1>{{ .Title }}</h1>
+    <h3>
+      <span>{{ .ReadingTime }} Minutes</span>
+      <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+      <span>{{ .WordCount }} Words</span>
+    </h3>
+
+    <article>
+      {{ .Content }}
+    </article>
+  </main>
+
+  <div>
+    <ul>
+      {{ with .PrevInSection }}
+      <li>Previous Post: <a href="{{ .Permalink }}">{{.Title}}</a></li>
+      {{ end }}
+      {{ with .NextInSection }}
+      <li>Next Post: <a href="{{ .Permalink }}">{{.Title}}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+{{ end }}

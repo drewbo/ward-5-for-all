@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <section>
+    <main>
+      <header>
+        <h1>{{ .Site.Title }}</h1>
+      </header>   
+      {{ range .Paginator.Pages }}
+        {{ .Render "summary" }}
+      {{ end }}
+      {{ template "_internal/pagination.html" . }}
+    </main>
+  </section>
+{{ end }}
