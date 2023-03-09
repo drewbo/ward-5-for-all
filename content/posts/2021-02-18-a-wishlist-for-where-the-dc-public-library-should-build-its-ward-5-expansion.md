@@ -11,7 +11,7 @@ In the last decade, the DC Public Library system engaged in a half-billion dolla
 
 The [new report, Next Libris](https://www.dclibrary.org/dclibraryfuture), outlines priorities for continued renewal and refreshing of existing facilities, as well as priority areas for building additional libraries. Those locations were identified by evaluating both where residents face a geographical gap in service, as well as where existing libraries are too small to service the community. They were then divided into three tiers based on whether they address both an operational issue and service gap (Tier 1) or just one of those criteria (Tiers 2 and 3 respectively). The recommendation is to proceed with expansion sequentially, building the Tier 1 facilities in 1-3 years, Tier 2 in 4-6 and Tier 3 in 7-10.
 
-[![](images/libraryeckington2_800_232.png)](https://ggwash.org/images/posts/_resized/libraryeckington2.png)
+[![](/images/libraryeckington2_800_232.png)](https://ggwash.org/images/posts/_resized/libraryeckington2.png)
 
 Next Libris report by DC Public Library.
 
@@ -19,7 +19,7 @@ As a crucial bonus, the report shares DCPL’s preference that, where possible, 
 
 One of the Tier 1 gaps identified is the combined Ward 5 neighborhoods of Edgewood, Eckington and Stronghold. A significant distance from existing libraries, DCPL data confirms that there are a disproportionate number of residents in these communities who do not currently use the system at all. And many of those that do visit the crowded Shaw library, so officials see an additional benefit of relieving some of the pressure on that high-traffic location.
 
-[![](images/libraryeckington.png)](https://ggwash.org/images/posts/_resized/libraryeckington.png)
+[![](/images/libraryeckington.png)](https://ggwash.org/images/posts/_resized/libraryeckington.png)
 
 A map from the Next Libris report shows existing library locations and service gaps. Next Libris report by DC Public Library.
 
@@ -62,7 +62,7 @@ This location would represent one of the more central options, again along the t
 
 630 Rhode Island Ave NE
 
-[![](images/bryantst_800_450.png)](https://ggwash.org/images/posts/_resized/bryantst.png)
+[![](/images/bryantst_800_450.png)](https://ggwash.org/images/posts/_resized/bryantst.png)
 
 Bryant Street development by MRP Realty used with permission.
 
@@ -80,7 +80,7 @@ The choice of location is not just important in how a new library will best serv
 
 One crucial detail of the Next Libris report is that it recommends closing the small Northwest One Library in conjunction with opening the Edgewood/Eckington/Stronghold library (as well as re-opening the nearby MLK location and expecting decreased pressure on the similarly nearby Shaw library). That’s in line with a general plan the library has to upgrade these low-square-footage facilities (most of which were replacements for even smaller, limited-service kiosks) in order to meet the growing need for meeting and study rooms, program space, and access to technology and collections.
 
-[![](images/libraryeckington3_800_506.png)](https://ggwash.org/images/posts/_resized/libraryeckington3.png)
+[![](/images/libraryeckington3_800_506.png)](https://ggwash.org/images/posts/_resized/libraryeckington3.png)
 
 Next Libris report by DC Public Library.
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "dangerous_florida_avenue_1200_807_90.jpg"
 ---
 
-[![](images/dangerous_florida_avenue_800_538_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/dangerous_florida_avenue_1200_807_90.jpg)
+[![](/images/dangerous_florida_avenue_800_538_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/dangerous_florida_avenue_1200_807_90.jpg)
 
 Florida Avenue NW at Rhode Island NW in DC by the author.
 
@@ -38,7 +38,7 @@ During the latest debate, the 5E commissioners also directed some ire at ANC 6E 
 
 Commissioners also chided 6E for not doing more outreach to them, though they failed to mention that a member of the ANC6E transportation committee presented at their September meeting and reached out to the commissioners whose single-member-districts include Florida Avenue to solicit support on this resolution but did not receive a response.
 
-[![](images/Florida_and_rhode_island_800_567_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/Florida_and_rhode_island_1200_850_90.jpg)
+[![](/images/Florida_and_rhode_island_800_567_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/Florida_and_rhode_island_1200_850_90.jpg)
 
 Florida Avenue NW at Rhode Island NW in DC by the author.
 

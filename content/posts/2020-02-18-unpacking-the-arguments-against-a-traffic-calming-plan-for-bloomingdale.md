@@ -16,7 +16,7 @@ It’s important to note that the posts installed so far are just intended as ph
 
 Efforts like this are a common way to address safety issues at intersections because they have many well-documented advantages. They improve pedestrian safety by reducing the distance—and the amount of space shared with cars—from one side of the street to the other. They’re also a visual signal to drivers to reduce speeds and pay full attention at stop signs.
 
-![](images/1standRFlexiposts-1024x768.jpg)
+![](/images/1standRFlexiposts-1024x768.jpg)
 
 While many in the community have been eagerly awaiting these measures, there has also been some vocal opposition from a few neighbors who are already attempting to have the flexiposts removed. That effort largely has been led by ANC Commissioner Karla Lewis (5E06), who [originally opposed the planned installation](https://ggwash.org/view/74076/curb-extensions-are-finally-coming-to-bloomingdale) because they threatened two illegal parking spaces in her single-member-district, then [celebrated them as a “win-win”](https://ggwash.org/view/74076/curb-extensions-are-finally-coming-to-bloomingdale#comment_414178) when DDOT compromised to preserve those spaces. But now she’s introducing a resolution at tonight’s ANC 5E meeting requesting reconsideration of the traffic-calming measures.
 

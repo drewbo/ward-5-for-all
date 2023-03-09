@@ -12,7 +12,7 @@ Last year, the District Department of Transportation (DDOT) made important progr
 
 After a series of updates since then, it appears that the agency’s most recent plan is even more aligned with advocates’ vision of a safe intersection for pedestrians and cyclists.
 
-[![](images/floridanewyorkave4_800_517.png)](https://ggwash.org/images/posts/_resized/floridanewyorkave4.png)
+[![](/images/floridanewyorkave4_800_517.png)](https://ggwash.org/images/posts/_resized/floridanewyorkave4.png)
 
 Image by DDOT.
 
@@ -22,7 +22,7 @@ The design represented a major improvement on the status quo, but [safety advoc
 
 DDOT was receptive to the feedback, and the next version of the design, dubbed Concept 6D, included a number of those recommendations — specifically, the closing of O Street, an additional crosswalk on the east side of 1st Street and New York Avenue, and straightening out the 1st Street bike lane.
 
-[![](images/floridanewyorkave2.png)](https://ggwash.org/images/posts/_resized/floridanewyorkave2.png)
+[![](/images/floridanewyorkave2.png)](https://ggwash.org/images/posts/_resized/floridanewyorkave2.png)
 
 There was one key recommendation that the updated design didn’t incorporate though. Rather than extend the Florida Avenue cycle track all the way through the intersection, the new plan left it unchanged, curving around the southern edge of the intersection to 1st Street.
 
@@ -32,7 +32,7 @@ The park concepts are interesting in their own right, but the street maps they i
 
 While it’s not the full extension advocates asked for, this allows a direct connection to the Eckington neighborhood to the north and sets up a potential future extension in further planning of Florida Avenue NW.
 
-[![](images/floridanewyorkave3_800_507.png)](https://ggwash.org/images/posts/_resized/floridanewyorkave3.png)
+[![](/images/floridanewyorkave3_800_507.png)](https://ggwash.org/images/posts/_resized/floridanewyorkave3.png)
 
 Image by SWA/Balsey.
 
@@ -42,7 +42,7 @@ After the meeting, DDOT Bicycle Program Specialist Will Handsfield confirmed the
 
 The change, however, has implications bigger than just this intersection. This plan, of course, connects to the rest of Florida Avenue NE, which already has a two-way cycle track installed as part of the interim improvements added last year. [The most recently released designs for the permanent changes](https://www.floridaaveproject.com/index) maintain that structure.
 
-[![](images/car800.png)](https://ggwash.org/images/posts/_resized/car800.png)
+[![](/images/car800.png)](https://ggwash.org/images/posts/_resized/car800.png)
 
 Rendering of the latest design for Florida Avenue NE with a two-way cycle track. Image by DDOT.
 

@@ -18,7 +18,7 @@ Conversations about calming traffic on First Street go back many years, and have
 
 The [updated proposal](https://drive.google.com/file/d/1eQZnUKsR2Ij8HHAuKVudLi_vybtPcZeK/view) would install curb extensions (also called bulbouts) to each of the nine all-way stop intersections between Florida Avenue and Bryant Street NW. The extensions and accompanying large planters would visually and physically narrow the road, cueing drivers to slow down and giving pedestrians a shorter crossing.
 
-![](images/bloomingdalecrossing.png)
+![](/images/bloomingdalecrossing.png)
 
 _Example of painted curb extensions from DDOT’s First Street Traffic Calming Proposal._
 
@@ -36,7 +36,7 @@ As a “compromise,” Lewis offered a motion to support implementation along th
 
 In exchange for hobbling nearly 25% of the traffic calming plan, Lewis preserved two parking spots.
 
-![](images/IMG_20190425_195157399.jpg)_One of the two illegal parking spots that is too close to the crosswalk and scheduled for removal._
+![](/images/IMG_20190425_195157399.jpg)_One of the two illegal parking spots that is too close to the crosswalk and scheduled for removal._
 
 Except, not even. While DDOT Vision Zero Traffic Engineer Emily Dalphy immediately offered to shave off intersections in response to Lewis’s concerns, she later confirmed that she could not guarantee those parking spots would remain either way.
 

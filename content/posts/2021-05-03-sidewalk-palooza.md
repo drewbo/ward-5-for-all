@@ -9,4 +9,4 @@ Use the map below to review Sidewalk Palooza events in your neighborhood. Click 
   
 Don't see an event in your neighborhood? You can lead it! It's easy and we can walk you through it. Just [send us an email at ward5forall@gmail.com](mailto:ward5forall@gmail.com) and we can get you setup.
 
-<iframe src="https://sidewalkpalooza.org?hideintro" width="900" height="700" allow="fullscreen"></iframe>
+{{< iframe "https://sidewalkpalooza.org/index.old.html?hideintro" 900 700 >}}

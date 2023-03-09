@@ -5,7 +5,7 @@ categories:
   - "north-capitol-street"
 ---
 
-https://www.youtube.com/watch?v=CDcyVSvh1oI
+{{< youtube CDcyVSvh1oI >}}
 
 On September 15, 2021, representatives from two community groups shared their respective ideas for ways the city could redesign North Capitol Street in Washington, DC.
 

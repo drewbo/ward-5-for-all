@@ -14,7 +14,7 @@ When the District Department of Transportation (DDOT) installed traffic-calming 
 
 Marked by flex posts, the extensions (also called bump-outs) increase safety by visually cueing drivers to drive slower through the narrower area, requiring slower, more controlled turns, daylighting the intersection so all road users can more easily see each other, providing additional space for pedestrians to wait and reducing the distance they have to physically cross.
 
-[![](images/Flex_posts_two_600_800_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/Flex_posts_two_1200_1599_90.jpg)
+[![](/images/Flex_posts_two_600_800_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/Flex_posts_two_1200_1599_90.jpg)
 
 Flex posts at the 1st and R St NW intersection have also been integrated into the Bloomingdale Farmers’ Market’s socially distanced procedures.  Image by the author.
 
@@ -32,7 +32,7 @@ Last month, [DDOT returned to the neighborhood to announce](https://bloomingdal
 
 - DDOT also announced that they would remove the flex posts along all of the East-West side-streets aside from R Street (which will receive further study with the new stop signs first). Flex posts will remain along First Street.
 
-[![](images/traffic_signage_800_364_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/traffic_signage_1105_503_90.jpg)
+[![](/images/traffic_signage_800_364_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/traffic_signage_1105_503_90.jpg)
 
 Left: Northbound approach to 1st St and R St NW showing visible obstruction of stop sign. Photo by the author. Right: Example of solar powered LED stop sign DDOT plans to install at the intersection. Photo from DDOT.
 

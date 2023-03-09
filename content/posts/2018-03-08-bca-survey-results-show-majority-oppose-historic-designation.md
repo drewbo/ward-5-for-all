@@ -10,7 +10,7 @@ The survey was conducted over two weeks in January [via a postcard](http://www.
 - I would like to pursue historic designation of Bloomingdale
 - I do not support historic designation for Bloomingdale
 
-[![](images/Screen_Shot_2018-03-07_at_12.06_.34_PM__800_567.png)](http://www.bloomingdalecivicassociation.org/wp-content/uploads/BCA-historic-designation-survey-postcard-2018-01-2.jpg)
+[![](/images/Screen_Shot_2018-03-07_at_12.06_.34_PM__800_567.png)](http://www.bloomingdalecivicassociation.org/wp-content/uploads/BCA-historic-designation-survey-postcard-2018-01-2.jpg)
 
 _This is the survey sent out to Bloomingdale residents. Image by [Bloomingdale Civic Association](http://www.bloomingdalecivicassociation.org/wp-content/uploads/BCA-historic-designation-survey-postcard-2018-01-2.jpg)._
 
