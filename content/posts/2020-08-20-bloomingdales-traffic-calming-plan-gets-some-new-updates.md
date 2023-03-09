@@ -4,6 +4,7 @@ date: "2020-08-20"
 categories: 
   - "first-street"
   - "safe-streets"
+coverimage: "Flex_posts_two_600_800_90.jpg"
 ---
 
 _[This post was also published on Greater Greater Washington](https://ggwash.org/view/78798/bloomdales-traffic-calming-plan-gets-some-new-updates)_

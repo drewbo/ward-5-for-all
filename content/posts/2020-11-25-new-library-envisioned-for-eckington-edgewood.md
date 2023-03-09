@@ -1,6 +1,7 @@
 ---
 title: "New Library Envisioned for Eckington/Edgewood"
 date: "2020-11-25"
+coverimage: "DCPL-NextLibrisMap.png"
 ---
 
 A [DC Public Library report released last week](https://www.dclibrary.org/sites/default/files/DCPL_NextLibris_111020-Web.pdf)) recommended building a new facility somewhere in the Eckington/Edgewood neighborhoods -- an area they identify as a Tier 1 gap in the network.

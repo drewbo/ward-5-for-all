@@ -17,7 +17,7 @@ The Historic Preservation Review Board’s (HPRB) [recent decision to designate 
 
 Prompted by Chairman Phil Mendelson's question about the role community input should play in the designation process, Commissioners Marnique Heath, Brian Crane, Andrew Aurbach, and Gretchen Pfaehler all declaratively agreed that community opposition should not affect designation decisions.
 
-<iframe src="https://dc.granicus.com/MediaPlayer.php?view_id=2&amp;clip_id=4579&amp;starttime=5567&amp;stoptime=5617&amp;autostart=0&amp;embed=1" width="640" height="420" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{{< iframe "https://dc.granicus.com/MediaPlayer.php?view_id=2&amp;clip_id=4579&amp;starttime=5567&amp;stoptime=5617&amp;autostart=0&amp;embed=1" 640 420 >}}
 
 > Chairman Mendelson: “What should be the role of community input? So if a majority of the district says yes or no, should that be determinative?”
 > 
@@ -47,7 +47,7 @@ Combined with the District’s [broad designation criterion](https://ggwash.org/
 
 When I presented this loophole to Chairman Phil Mendelson while testifying at the HPRB commissioners’ confirmation hearing, he expressed skepticism — outlining the disincentives he believes would keep abuse in check:
 
-<iframe src="https://dc.granicus.com/MediaPlayer.php?view_id=2&amp;clip_id=4579&amp;starttime=2292&amp;stoptime=2326&amp;autostart=0&amp;embed=1" width="640" height="420" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{{< iframe "https://dc.granicus.com/MediaPlayer.php?view_id=2&amp;clip_id=4579&amp;starttime=2292&amp;stoptime=2326&amp;autostart=0&amp;embed=1" 640 420 >}}
 
 > “So if I were to file an application to make a historic district out of my street and I don’t talk to my neighbors and they get angry at me, my life’s going to be pretty miserable. And maybe I can win on the application, on the other hand, maybe my next-door neighbor will sue me and sue the Historic Preservation Review Board and sue the mayor’s agent and all the council members start weighing in and saying what’s going on. There’s a lot that can happen with the turbulence that’s not so good.”
 

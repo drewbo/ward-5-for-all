@@ -1,6 +1,7 @@
 ---
 title: "BCA Survey Results Show Majority Oppose Historic Designation"
 date: "2018-03-08"
+coverimage: "Screen_Shot_2018-03-07_at_12.06_.34_PM__800_567.png"
 ---
 
 At last month’s Bloomingdale Civic Association meeting, BCA President Teri Janine Quinn revealed the results from the organization’s survey weighing community opinion about the pending historic district application for the neighborhood. With 516 votes counted, [the respondents were opposed to designation](https://bloomingdaleneighborhood.blogspot.com/2018/02/bloomingdale-civic-association-historic.html) 282 to 234\*, a 55-45 percent margin.

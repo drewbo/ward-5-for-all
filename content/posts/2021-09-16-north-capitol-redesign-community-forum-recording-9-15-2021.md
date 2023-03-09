@@ -17,4 +17,4 @@ For more information on the North Capitol Deckover, visit: [https://northcapitol
 
 You can review Nick and Conor's Community Boulevard Presentation below, and sign up for updates at Ward5forAll.org/NorthCap:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjR7XZpWPB4H5cVf3nwYW1FVzeK78s2kF4-n1dU5KLrY_LOG4a6fNgORbheLrEfRwpyMb9xmGzAuO0/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vRjR7XZpWPB4H5cVf3nwYW1FVzeK78s2kF4-n1dU5KLrY_LOG4a6fNgORbheLrEfRwpyMb9xmGzAuO0/embed?start=false&amp;loop=false&amp;delayms=10000" 960 569 >}}

@@ -4,6 +4,7 @@ date: "2019-04-26"
 categories: 
   - "first-street"
   - "safe-streets"
+coverimage: "bloomingdalecrossing.png"
 ---
 
 _This post [originally appeared on Greater Greater Washington](https://ggwash.org/view/71868/a-bloomingdale-anc-waters-down-a-traffic-calming-plan-to-temporarily-save-two-parking-spots)._

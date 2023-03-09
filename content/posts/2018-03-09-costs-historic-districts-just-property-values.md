@@ -1,13 +1,16 @@
 ---
 title: "The Costs of Historic Districts: More Than Just Property Values"
 date: "2018-03-09"
+coverimage: "HollidayBlount-Chart.png"
 ---
 
 This past week, Bloomingdale resident and real estate agent JC Blount and Bloomingdale Civic Association board member and ANC representative Dr. Bertha Holliday [published an analysis purporting to show that designating Bloomingdale a historic district will not lead to a rise in housing prices](https://www.scribd.com/document/372833016/Just-the-Facts-Flyer-House-Prices-2018-03-02#from_embed) in the neighborhood.
 
 I'm very appreciative that Dr. Holliday and Ms. Blount are engaged in this analysis. I agree that trying to answer the question of how designation will impact our neighborhood's already pressing affordability crisis is central to this debate. Unfortunately, I disagree that this particular analysis and data set are sufficient to answer this major question, or that it's the right question to ask in the first place.
 
-\[caption id="attachment\_94" align="aligncenter" width="582"\]![](/images/HollidayBlount-Chart.png) Chart from the Holliday-Blount analysis\[/caption\]
+![](/images/HollidayBlount-Chart.png)
+
+Chart from the Holliday-Blount analysis
 
 The first issue is that the sample size considered here is exceedingly small. The LeDroit data set contains only 14 sales. At that small of a number, a couple of outliers one way or another can greatly impact the results.
 
