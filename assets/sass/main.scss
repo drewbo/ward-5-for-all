@@ -8,6 +8,14 @@
 $family-primary: Montserrat;
 $family-secondary: Merriweather;
 
+.horizontal-list li {
+    display: inline-block;
+    margin-left: 1em;
+    &:first-of-type {
+        margin-left: 0.5em;
+    }
+}
+
 /*! bulma.io v0.9.4 | MIT License | github.com/jgthms/bulma */
 @import "bulma/base/_all";
 @import "bulma/utilities/functions";

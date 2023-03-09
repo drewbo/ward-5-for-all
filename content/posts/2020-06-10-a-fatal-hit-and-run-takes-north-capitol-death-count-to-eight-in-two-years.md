@@ -13,7 +13,7 @@ One victim was Donald Malloy, 81, of Temple Hills, Maryland, while the other has
 
 These deaths continue a tragic trend; since September 2018 there have now been [eight fatalities](https://ggwash.org/view/76602/more-safety-upgrades-are-needed-along-the-north-capitol-corridor) on the corridor.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Xbg9zsbSOJM9rBuM1HaM2KnvkOugCb2m" width="640" height="480"></iframe>
+{{<iframe "https://www.google.com/maps/d/embed?mid=1Xbg9zsbSOJM9rBuM1HaM2KnvkOugCb2m" 640 480>}}
 
 A common thread has been that these fatal crashes have generally occurred at off-peak hours, when a lower volume of traffic on the wide streets invites excessive speeding.
 

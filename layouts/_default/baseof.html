@@ -2,20 +2,42 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="keywords" content="blog,dc,local" />
+    <meta property="og:site_name" content="{{ $.Site.Title }}" />
+    <meta property="og:title" content="{{ $.Site.Title }}" />
+    <meta name="twitter:site" content="@Ward5ForAll" />
+    <meta name="twitter:creator" content="@Ward5ForAll" />
+    <meta name="theme-color" content="#1a202c">
+    {{ partial "favicon.html" .}}
+    {{ if .IsPage }}
+      <title>{{ .Title }} | {{ $.Site.Title }}</title>
+      <meta property="og:type" content="article" />
+      <meta property="og:title" content="{{ .Title }}" />
+      <meta property="og:description" content="{{ .Summary }}" />
+      <meta name="description" content="{{ .Summary }}" />
+      <meta property="twitter:title" content="{{ .Title }}" />
+      <meta property="twitter:description" content="{{ .Summary }}" />
+      <meta property="article:author" content="your-name" />
+      <meta property="article:published_time" content="{{ .Date }}" />
+    {{ else }}
+      <title>{{ $.Site.Title }}</title>
+      <meta name="twitter:card" content="summary" />
+      <meta property="og:title" content="{{ $.Site.Title }}" />
+      <meta property="og:description" content="DC Ward 5 Blog" />
+      <meta name="description" content="DC Ward 5 Blog" />
+    {{ end }}
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
-    <title>{{ block "title" . }}
-      {{ .Site.Title }}
-    {{ end }}</title>
   </head>
   <body>
-    <div class="container">
+    <div class="container mt-6">
       <a href="{{ .Site.BaseURL }}">
         <figure class="image is-240x37">
           {{ $logo := resources.Get "images/logo.png" }}
           <img src="{{ $logo.Permalink }}" alt="Ward 5 For All logo showing three icon houses: orange, blue, and green" />
         </figure>
       </a>
+      {{ partial "social_links.html" . }}
     </div>
     {{ block "main" . }}
     {{ end }}
