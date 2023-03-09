@@ -1,13 +1,12 @@
 {{ define "main" }}
-  <section>
-    <main>
-      <header>
-        <h1>{{ .Site.Title }}</h1>
-      </header>   
+  <section class="section">
+    <main class="container">
       {{ range .Paginator.Pages }}
         {{ .Render "summary" }}
       {{ end }}
+      <div class="column is-one-third is-offset-one-third">
       {{ template "_internal/pagination.html" . }}
+      </div>
     </main>
   </section>
 {{ end }}

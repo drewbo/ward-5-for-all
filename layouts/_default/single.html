@@ -1,25 +1,25 @@
 {{ define "main" }}
-<section>
-  <main>
-    <h1>{{ .Title }}</h1>
-    <h3>
-      <span>{{ .ReadingTime }} Minutes</span>
-      <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-      <span>{{ .WordCount }} Words</span>
+<section class="section">
+  <main class="container mb-6">
+    <h1 class="title is-size-2 has-text-weight-bold">{{ .Title }}</h1>
+    <h3 class="subtitle">
+      <span class="tag" style="background-color: rgb(251, 176, 60)">{{ .ReadingTime }} Minutes</span>
+      <span class="tag" style="color: white; background-color: rgb(40, 172, 226)	">{{ .Date.Format "Jan 2, 2006" }}</span>
+      <span class="tag" style="color: white; background-color: rgb(138, 197, 62)">{{ .WordCount }} Words</span>
     </h3>
 
-    <article>
+    <article class="content is-family-secondary">
       {{ .Content }}
     </article>
   </main>
 
-  <div>
+  <div class="container content">
     <ul>
       {{ with .PrevInSection }}
-      <li>Previous Post: <a href="{{ .Permalink }}">{{.Title}}</a></li>
+      <li>Previous Post: <a class="previous" href="{{ .Permalink }}">{{.Title}}</a></li>
       {{ end }}
       {{ with .NextInSection }}
-      <li>Next Post: <a href="{{ .Permalink }}">{{.Title}}</a></li>
+      <li>Next Post: <a class="next" href="{{ .Permalink }}">{{.Title}}</a></li>
       {{ end }}
     </ul>
   </div>

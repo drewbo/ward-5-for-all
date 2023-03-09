@@ -1,9 +1,9 @@
 <a class="box" href="{{ .Permalink }}">
-    <h4>{{ .Title }}</h4>
-    <h6>{{ .Summary }}</h6>
-    <div>
-      <span>{{ .ReadingTime }} Minutes</span>
-      <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-      <span>{{ .WordCount }} Words</span>
-    </div>
-  </a>
+  <h4 class="title is-size-2 has-text-weight-bold">{{ .Title }}</h4>
+  <h6 class="subtitle has-text-grey is-6 is-family-secondary">{{ .Summary }}</h6>
+  <div>
+    <span class="tag" style="background-color: rgb(251, 176, 60)">{{ .ReadingTime }} Minutes</span>
+    <span class="tag" style="color: white; background-color: rgb(40, 172, 226)	">{{ .Date.Format "Jan 2, 2006" }}</span>
+    <span class="tag" style="color: white; background-color: rgb(138, 197, 62)">{{ .WordCount }} Words</span>
+  </div>
+</a>

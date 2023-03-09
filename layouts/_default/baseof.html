@@ -9,6 +9,14 @@
     {{ end }}</title>
   </head>
   <body>
+    <div class="container">
+      <a href="{{ .Site.BaseURL }}">
+        <figure class="image is-240x37">
+          {{ $logo := resources.Get "images/logo.png" }}
+          <img src="{{ $logo.Permalink }}" alt="Ward 5 For All logo showing three icon houses: orange, blue, and green" />
+        </figure>
+      </a>
+    </div>
     {{ block "main" . }}
     {{ end }}
   </body>

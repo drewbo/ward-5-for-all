@@ -1,4 +1,26 @@
-@import "https://fonts.googleapis.com/css?family=Montserrat:400";
-@import "https://fonts.googleapis.com/css?family=Merriweather:400";
+@charset "utf-8";
+
+@import "bulma/utilities/initial-variables.sass";
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400");
 
 $family-primary: Montserrat;
+$family-secondary: Merriweather;
+
+/*! bulma.io v0.9.4 | MIT License | github.com/jgthms/bulma */
+@import "bulma/base/_all";
+@import "bulma/utilities/functions";
+@import "bulma/utilities/derived-variables";
+@import "bulma/utilities/mixins";
+@import "bulma/utilities/controls";
+@import "bulma/utilities/extends";
+@import "bulma/components/pagination.sass";
+@import "bulma/elements/box";
+@import "bulma/elements/container";
+@import "bulma/elements/content";
+@import "bulma/elements/tag";
+@import "bulma/elements/title";
+@import "bulma/grid/_all";
+@import "bulma/helpers/_all";
+@import "bulma/layout/_all";
