@@ -4,6 +4,7 @@ backend:
   branch: main
 
 media_folder: "static/images"
+public_folder: "images"
 
 collections:
   - name: "post" 
@@ -16,5 +17,5 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "string", required: false}
-      - {label: "Cover Image", name: "coverimage", widget: "image", required: false, public_folder: ""}
+      - {label: "Cover Image", name: "coverimage", widget: "image", required: false, public_folder: "images"}
       - {label: "Body", name: "body", widget: "markdown"}
