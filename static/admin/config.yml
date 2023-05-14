@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: drewbo/ward-5-for-all
+  branch: main # Branch to update (optional; defaults to main)
