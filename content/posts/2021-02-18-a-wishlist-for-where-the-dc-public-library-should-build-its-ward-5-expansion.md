@@ -1,7 +1,7 @@
 ---
 title: "A wishlist for where the DC Public Library should build its Ward 5 expansion"
 date: "2021-02-18"
-coverimage: "libraryeckington.png"
+coverimage: "images/libraryeckington.png"
 ---
 
 A [new report from the DC Public Library](https://www.dclibrary.org/sites/default/files/DCPL_NextLibris_111020-Web.pdf) charts a course for future expansion of the library system, including a proposed new facility in the Edgewood/Eckington/Stronghold area. Here’s an early look at some potential locations for such a library, and how that might impact surrounding areas.

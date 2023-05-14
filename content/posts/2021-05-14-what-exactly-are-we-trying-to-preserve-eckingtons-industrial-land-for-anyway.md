@@ -1,7 +1,7 @@
 ---
 title: "What exactly are we trying to preserve Eckington’s industrial land for anyway?"
 date: "2021-05-14"
-coverimage: "FLUM_Map_555_428_90.jpg"
+coverimage: "images/FLUM_Map_555_428_90.jpg"
 ---
 
 Last week [community leaders in Eckington made the case](https://ggwash.org/view/81231/an-affordable-future-for-eckington-deferred) for restoring the Comprehensive Plan’s Future Land Use Map Amendments that would allow housing on the industrial land near the metros and along the trail in their neighborhood.

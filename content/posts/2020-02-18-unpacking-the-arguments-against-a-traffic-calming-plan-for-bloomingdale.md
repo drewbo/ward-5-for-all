@@ -4,7 +4,7 @@ date: "2020-02-18"
 categories: 
   - "first-street"
   - "safe-streets"
-coverimage: "1standRFlexiposts-1024x768.jpg"
+coverimage: "images/1standRFlexiposts-1024x768.jpg"
 ---
 
 _[This post was also published on Greater Greater Washington](https://ggwash.org/view/76190/bloomingdale-bumpouts-first-street-nw-ddot)_

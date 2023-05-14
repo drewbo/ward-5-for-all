@@ -4,7 +4,7 @@ date: "2019-06-20"
 categories: 
   - "r-st-bikeshare"
   - "safe-streets"
-coverimage: "ANC5E-Letter-of-Opposition-to-Bikeshare-Location-p1.jpg"
+coverimage: "images/ANC5E-Letter-of-Opposition-to-Bikeshare-Location-p1.jpg"
 ---
 
 Below is the letter of opposition that was passed by ANC 5E at their June 18, 2019 meeting. Authored by ANC 5E04 Commissioner Sylvia Pinkney, and passed by a vote of 7-2, the letter outlines concerns about the proposed location at N. Capitol and R St NE and encourages DDOT to choose an alternate location to the South in the median between Lincoln Rd and N. Capitol.

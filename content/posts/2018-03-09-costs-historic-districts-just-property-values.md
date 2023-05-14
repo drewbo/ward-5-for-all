@@ -1,7 +1,7 @@
 ---
 title: "The Costs of Historic Districts: More Than Just Property Values"
 date: "2018-03-09"
-coverimage: "HollidayBlount-Chart.png"
+coverimage: "images/HollidayBlount-Chart.png"
 ---
 
 This past week, Bloomingdale resident and real estate agent JC Blount and Bloomingdale Civic Association board member and ANC representative Dr. Bertha Holliday [published an analysis purporting to show that designating Bloomingdale a historic district will not lead to a rise in housing prices](https://www.scribd.com/document/372833016/Just-the-Facts-Flyer-House-Prices-2018-03-02#from_embed) in the neighborhood.
