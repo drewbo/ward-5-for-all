@@ -3,6 +3,8 @@ title: "Open Letter to DDOT and Edgewood Businesses About 8th Street NE Safety I
 date: "2021-09-21"
 categories: 
   - "safe-streets"
+tags:
+  - "featured"
 ---
 
 After years of planning for a street redesign on 8th Street NE to help address dangerous conditions and close the gap in the Metropolitan Bike Trail, last week DDOT abruptly announced that they were functionally killing the project. The news came as a shock to the community which has been waiting since the opening of the MBT for a solution for this critical stretch.

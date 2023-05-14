@@ -1,6 +1,8 @@
 ---
 title: "Petition: No More Deaths -- Fix Michigan Avenue"
 date: "2021-03-10"
+tags:
+  - "featured"
 ---
 
 The recent death of Mr. Armando Martinez-Ramos at Michigan Avenue and 10th St NE is a tragic reminder of the gap between the District's current streets and our Vision Zero goals.  

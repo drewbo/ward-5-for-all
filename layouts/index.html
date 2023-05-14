@@ -1,6 +1,20 @@
 {{ define "main" }}
   <section class="section">
     <main class="container">
+      <h2 class="title">Featured Posts</h2>
+      <ul class="columns">
+        {{ range first 3 .Site.Taxonomies.tags.featured }}
+          <li class="column is-one-third">
+            <a class="box" href="{{ .Page.RelPermalink }}">
+              {{ .Page.Title }}<br /><br />
+              <span class="tag" style="color: white; background-color: rgb(40, 172, 226)">
+                {{ .Page.Date.Format "Jan 2, 2006" }}  
+              </span>
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+      <h2 class="title">All Posts</h2>
       {{ range .Paginator.Pages }}
         {{ .Render "summary" }}
       {{ end }}
