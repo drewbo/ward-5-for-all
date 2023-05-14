@@ -19,3 +19,8 @@ collections:
       - {label: "Tags", name: "tags", widget: "string", required: false}
       - {label: "Cover Image", name: "coverimage", widget: "image", required: false, public_folder: "images"}
       - {label: "Body", name: "body", widget: "markdown"}
+    sortable_fields:
+      fields: ['title', 'date']
+      default:
+        field: date
+        direction: Descending
