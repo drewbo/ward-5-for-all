@@ -3,7 +3,7 @@ title: "A new rendering of the Dave Thomas Circle redesign suggests an important
 date: "2020-06-08"
 categories: 
   - "safe-streets"
-coverimage: "floridanewyorkave3.png"
+coverimage: "images/floridanewyorkave3.png"
 ---
 
 _[This post was also published on Greater Greater Washington](https://ggwash.org/view/77957/new-rendering-of-dave-thomas-circle-redesign-suggests-important-bike-lane-addition)_

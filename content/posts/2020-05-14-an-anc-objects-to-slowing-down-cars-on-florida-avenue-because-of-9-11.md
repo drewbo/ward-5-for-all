@@ -3,7 +3,7 @@ title: "An ANC objects to slowing down cars on Florida Avenue because of 9/11"
 date: "2020-05-14"
 categories: 
   - "safe-streets"
-coverimage: "dangerous_florida_avenue_1200_807_90.jpg"
+coverimage: "images/dangerous_florida_avenue_1200_807_90.jpg"
 ---
 
 [![](/images/dangerous_florida_avenue_800_538_90.jpg)](https://ggwash.org/images/made/images/posts/_resized/dangerous_florida_avenue_1200_807_90.jpg)

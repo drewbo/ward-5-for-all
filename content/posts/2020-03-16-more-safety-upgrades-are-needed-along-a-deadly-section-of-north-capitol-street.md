@@ -4,7 +4,7 @@ date: "2020-03-16"
 categories: 
   - "north-capitol-street"
   - "safe-streets"
-coverimage: "ncapitol_corridor_new__718_492_90.jpg"
+coverimage: "images/ncapitol_corridor_new__718_492_90.jpg"
 ---
 
 _[This post was also published on Greater Greater Washington](https://ggwash.org/view/76602/more-safety-upgrades-are-needed-along-the-north-capitol-corridor)_
