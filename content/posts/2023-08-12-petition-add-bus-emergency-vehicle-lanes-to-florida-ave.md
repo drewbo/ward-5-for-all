@@ -3,8 +3,7 @@ title: "Petition: Add Bus/Emergency Vehicle Lanes to Florida Ave"
 date: 2023-08-12T00:00:00.000-04:00
 coverimage: images/floridaave.png
 ---
-Florida Avenue is consistently one of the most congested and dangerous corridors in the city. At peak times, bus riders who rely on the system to get to work, appointments and more are frozen in car traffic, while off-peak hours see drivers speeding through neighborhood streets, with devastating results (six fatalities in the last six years alone). **This corridor needs a big improvement to move more people more quickly and far more safely.**
-
+![](images/floridaave.png)
 Excitingly, DDOT has put this street on their bus priority map, and is at the beginning stages of a [project to improve bus service on this corridor](https://buspriority.ddot.dc.gov/pages/floridaavenwne). **But there's a growing concern the agency may shy away from the best solution, 24/7 bus lanes, out of fear of driver backlash**. This corridor is too important for half-measures that neither fully solve the problem, nor appease critics.
 
 [Tell DDOT: Don't compromise on safety and service. Implement 24/7 bus lanes on Florida Avenue](https://mailchi.mp/a7665b75788b/florida-avenue-bus-lane).
