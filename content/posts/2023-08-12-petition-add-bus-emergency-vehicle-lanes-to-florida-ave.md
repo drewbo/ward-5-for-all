@@ -1,6 +1,7 @@
 ---
 title: "Petition: Add Bus/Emergency Vehicle Lanes to Florida Ave"
 date: 2023-08-12T00:00:00.000-04:00
+coverimage: images/floridaave.png
 ---
 Florida Avenue is consistently one of the most congested and dangerous corridors in the city. At peak times, bus riders who rely on the system to get to work, appointments and more are frozen in car traffic, while off-peak hours see drivers speeding through neighborhood streets, with devastating results (six fatalities in the last six years alone). **This corridor needs a big improvement to move more people more quickly and far more safely.**
 
